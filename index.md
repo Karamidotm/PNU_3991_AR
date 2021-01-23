@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+# PNU_3991_AR
+---------
+### مهسا کرمی
+ 
+---
+- [حساب گیت هاب](https://github.com/Kramidotm/)
 
-You can use the [editor on GitHub](https://github.com/Karamidotm/PNU_3991_AR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [رزومه](https://Kramidotm.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [SOP](https://Kramidotm.github.io/SOP/)
 
-### Markdown
+------------------
+## Winter Semester Courses 1399/2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## دروس کارشناسی
 
-```markdown
-Syntax highlighted code block
+[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/Kramidotm/PNU_3991_AR/tree/main/HumanComputerInteraction)
+<br>
+[1322110_01 طراحي واسط كاربر 3](https://github.com/Kramidotm/PNU_3991_AR/tree/main/UserInterfaceDesign)
 
-# Header 1
-## Header 2
-### Header 3
+--------------
+## روز و ساعت ارائه دروس
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Karamidotm/PNU_3991_AR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">طراحي واسط كاربر</a></th>
+    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">نظریه زبان ها و ماشین ها</a></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
