@@ -4,9 +4,9 @@
 ### مهسا کرمی
  
 ---
-- [حساب گیت هاب](https://http://karamidotm.cvbuilder.me/fa)
+- [حساب گیت هاب](https://github.com/Kramidotm/)
 
-- [رزومه](https://Kramidotm.github.io/)
+- [رزومه](https://karamidotm.cvbuilder.me/fa)
 
 - [SOP](https://Kramidotm.github.io/SOP/)
 
