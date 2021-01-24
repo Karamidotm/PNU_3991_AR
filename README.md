@@ -42,8 +42,8 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th></th>
     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">نظریه زبان ها و ماشین ها</a></th>
+    <th></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>
