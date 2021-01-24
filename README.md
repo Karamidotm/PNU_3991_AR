@@ -4,7 +4,7 @@
 ### مهسا کرمی
  
 ---
-- [حساب گیت هاب](https://github.com/Kramidotm/)
+- [حساب گیت هاب](https://http://karamidotm.cvbuilder.me/fa)
 
 - [رزومه](https://Kramidotm.github.io/)
 
