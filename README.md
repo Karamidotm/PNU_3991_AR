@@ -6,7 +6,7 @@
 ---
 - [حساب گیت هاب](https://github.com/Kramidotm/)
 
-- [رزومه](https://karamidotm.cvbuilder.me/fa)
+- [رزومه](http://karamidotm.cvbuilder.me/fa)
 
 - [SOP](https://Kramidotm.github.io/SOP/)
 
