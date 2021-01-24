@@ -20,6 +20,10 @@
 [1322110_01 طراحي واسط كاربر 3](https://github.com/Kramidotm/PNU_3991_AR/tree/main/UserInterfaceDesign)
 
 --------------
+### ارزیابی ها
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/Karamidotm/PNU_3991_AR/tree/main/general)
+--------------
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
