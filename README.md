@@ -8,7 +8,7 @@
 
 - [رزومه](http://karamidotm.cvbuilder.me/fa)
 
-- [SOP](https://github.com/Karamidotm/SOP)
+- [SOP](https://karamidotm.github.io/sop/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
